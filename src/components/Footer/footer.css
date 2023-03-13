@@ -1,0 +1,35 @@
+.footer-section {
+    margin-top: 15%;
+    background: linear-gradient(to right, rgb(103, 195, 243) 0%, rgb(88, 154, 242) 100%);
+    padding-bottom: 3%;
+}
+
+.footer-main {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.footer-main img {
+   padding-left: 10%;
+}
+
+.footer-main h5 {
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.footer-main a {
+    color: #fff;
+    text-decoration: none;
+    gap: 20px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+@media screen and (min-width: 200px) and (max-width: 900px) {
+    .footer-main h5, .footer-main p {
+        text-align: center !important;
+    }
+}

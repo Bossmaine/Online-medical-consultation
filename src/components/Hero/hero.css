@@ -1,0 +1,64 @@
+.hero-texts {
+    padding: 80px 0 0 80px !important;
+    
+}
+
+.hero-img {
+    max-width: 85%;
+}
+
+.hero-texts h2 {
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.hero-texts p {
+    font-weight: 300;
+    font-size: 21px;
+    color: #7D7987;
+}
+
+.hero-texts button {
+    padding: 14px 50px;
+    border-radius: 55px;
+    background: #458FF6;
+    border: none;
+    color: #fff;
+}
+
+@media screen and (min-width: 200px) and (max-width: 768px) {
+    .hero-texts h2 {
+        text-align: center;
+        padding-bottom: 15px;
+    } 
+
+    .hero-texts {
+        padding: 0px 20px !important;
+    }
+
+    .hero-texts p {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    br {
+        display: none;
+    }
+
+    .hero-texts button {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+
+    img {
+        max-width: 100%;
+    }
+    
+}
+
+@media screen and (min-width: 620px) and (max-width: 900px) {
+    .hero-texts {
+        padding: 20px 0 0 80px !important;
+    }
+}
