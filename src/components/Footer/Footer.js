@@ -13,16 +13,16 @@ function Footer() {
           <div className="col-sm-12 col-md-6 col-lg-2 mt-5 pt-5">
             <h5>Company</h5>
             <p>
-              <a href="http://localhost:3000/">About</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">About</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Testimonials</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Testimonials</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Find a Doctor</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Find a Doctor</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Apps</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Apps</a>
             </p>
           </div>
 
@@ -30,32 +30,32 @@ function Footer() {
             <h5>Region</h5>
 
             <p>
-              <a href="http://localhost:3000/">Indonesia</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Indonesia</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Hong Kong</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Hong Kong</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Singapore</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Singapore</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Canada</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Canada</a>
             </p>
           </div>
 
           <div className="col-sm-12 col-md-6 col-lg-2 mt-5 pt-5">
             <h5>Help</h5>
             <p>
-              <a href="http://localhost:3000/">Help Center</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Help Center</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Contact Support</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Contact Support</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">How it works</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">How it works</a>
             </p>
             <p>
-              <a href="http://localhost:3000/">Instructions</a>
+              <a href="https://dapper-syrniki-79881d.netlify.app/">Instructions</a>
             </p>
           </div>
         </div>

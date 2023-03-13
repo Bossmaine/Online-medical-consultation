@@ -7,7 +7,7 @@ function Navigation() {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary nav-area">
         <div className="container-fluid">
-            <a className="navbar-brand" href="http://localhost:3000/">
+            <a className="navbar-brand" href="https://dapper-syrniki-79881d.netlify.app/">
             <img src={Logo} alt="brand logo" />
             </a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,19 +16,19 @@ function Navigation() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item">
-                        <a className="nav-link active home-link" aria-current="page" href="http://localhost:3000/"> Home </a>
+                        <a className="nav-link active home-link" aria-current="page" href="https://dapper-syrniki-79881d.netlify.app/"> Home </a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disable other-link" href="http://localhost:3000/">Find a Doctor</a>
+                        <a className="nav-link disable other-link" href="https://dapper-syrniki-79881d.netlify.app/">Find a Doctor</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disable other-link" href="http://localhost:3000/">App</a>
+                        <a className="nav-link disable other-link" href="https://dapper-syrniki-79881d.netlify.app/">App</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disable other-link" href="http://localhost:3000/">Testimonials</a>
+                        <a className="nav-link disable other-link" href="https://dapper-syrniki-79881d.netlify.app/">Testimonials</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disable other-link" href="http://localhost:3000/">About Us</a>
+                        <a className="nav-link disable other-link" href="https://dapper-syrniki-79881d.netlify.app/">About Us</a>
                     </li>
                 </ul>
             </div>

@@ -32,7 +32,7 @@ function Article() {
                             In this case, the role of the health <br/>
                             laboratory is very important to do <br/> a disease detection...
                             </p>
-                            <a href="http://localhost:3000/">Read More <i className="bi bi-arrow-down"></i></a>
+                            <a href="https://dapper-syrniki-79881d.netlify.app/">Read More <i className="bi bi-arrow-down"></i></a>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ function Article() {
                                 In this case, the role of the health <br/>
                                 laboratory is very important to do <br/> a disease detection...
                             </p>
-                            <a href="http://localhost:3000/">Read More <i className="bi bi-arrow-down"></i></a>
+                            <a href="https://dapper-syrniki-79881d.netlify.app/">Read More <i className="bi bi-arrow-down"></i></a>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ function Article() {
                                 now and also for your skin health. <br/>
                                 There are some...
                             </p>
-                            <a href="http://localhost:3000/">Read More <i className="bi bi-arrow-down"></i></a>
+                            <a href="https://dapper-syrniki-79881d.netlify.app/">Read More <i className="bi bi-arrow-down"></i></a>
                         </div>
                     </div>
                 </div>
